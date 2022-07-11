@@ -1,0 +1,3 @@
+[WARN]:[FILE_LOG]   THis is warning log 
+[ERROR]:[DB_LOG]   this is error log 
+[DEBUG]:[HTTP_LOG]   this is debug log 
